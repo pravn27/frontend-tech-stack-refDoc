@@ -23,3 +23,12 @@
 
    - https://www.w3schools.com/css/default.asp
    - https://developer.mozilla.org/en-US/docs/Web/CSS
+   - CSS flex & grid
+     - https://cssgridgarden.com/
+     - https://flexboxfroggy.com/
+   - [CSS other resources](./css/cssResource.md)
+   - #### CSS Cheat Sheets
+     - [CSS cheat sheets](./css/cssCheatSheet.md)
+     - https://johndecember.com/css/spec/CSS3-Cheat-Sheet.pdf
+     - https://html.com/blog/css-3-cheat-sheets/
+     - https://www.interviewbit.com/css-cheat-sheet/
