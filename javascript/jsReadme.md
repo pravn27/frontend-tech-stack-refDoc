@@ -23,10 +23,18 @@
 
    - https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
    - https://dev.to/edisonpappi/how-javascript-engines-chrome-v8-works-50if
+   - https://github.com/Aschen/understand-js-runtimes
+   - https://github.com/fraxken/VM-Resources
 
 4. ### JS testing
 
    - https://www.testingjavascript.com/
 
 5. ### JS performance
+
    - https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/
+
+6. ### JS patterns
+   - https://www.dofactory.com/javascript/design-patterns
+   - https://www.patterns.dev/
+   - https://ui-patterns.com/
