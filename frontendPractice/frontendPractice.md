@@ -5,3 +5,4 @@
 3. https://roadmap.sh/frontend/projects
 4. https://www.youtube.com/watch?v=2GeMknXoGaA&ab_channel=KevinPowell
 5. https://bigdevsoon.me/
+6. https://devtools.tech/
